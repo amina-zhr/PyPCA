@@ -1,4 +1,4 @@
-# Project Title: Custom PCA Implementation in Python
+#  Custom PCA Implementation in Python
 
 **Description:**
 This project presents a custom implementation of Principal Component Analysis (PCA) in Python from scratch. PCA is a dimensionality reduction technique widely used in data science and machine learning. While maintaining simplicity, our implementation closely matches the accuracy of the PCA module in scikit-learn, showcasing a comprehensive understanding of the underlying algorithms.
